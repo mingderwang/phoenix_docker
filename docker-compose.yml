@@ -16,3 +16,13 @@ db:
     - POSTGRES_USER=postgres
     - POSTGRES_PASSWORD=postgres
     - POSTGRES_HOST=db
+    
+test:
+  build: .
+  command: mix test
+  environment:
+    - MIX_ENV=test
+  volumes_from:
+    - web
+  links:
+    - db
