@@ -11,12 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1517997131,,"wq"
 :q
 |2,0,1517997021,,"q"
 :q!
 |2,0,1517996483,,"q!"
-:wq
-|2,0,1517996267,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,22 +27,49 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	>>>>>>> d2bfbaef2187c56e9fec0c4054d0f4b104b709b0
+|3,1,1,1,1,0,1517997125,">>>>>>> d2bfbaef2187c56e9fec0c4054d0f4b104b709b0"
+"2	LINE	0
+	deps
+|3,0,2,1,1,0,1517997116,"deps"
+"3	LINE	0
+	=======
+|3,0,3,1,1,0,1517997112,"======="
+"4	LINE	0
+	/config/prod.secret.exs
+|3,0,4,1,1,0,1517997111,"/config/prod.secret.exs"
+"5	LINE	0
+	<<<<<<< HEAD
+|3,0,5,1,1,0,1517997096,"<<<<<<< HEAD"
 
 # File marks:
-'0  2  0  ~/.gitignore
-|4,48,2,0,1517997021,"~/.gitignore"
+'0  24  0  ~/.gitignore
+|4,48,24,0,1517997131,"~/.gitignore"
 '1  1  0  ~/.gitignore
-|4,49,1,0,1517997008,"~/.gitignore"
-'2  1  0  ~/.gitignore
-|4,50,1,0,1517997008,"~/.gitignore"
-'3  17  0  ~/config/dev.exs
-|4,51,17,0,1517996483,"~/config/dev.exs"
-'4  2  0  ~/docker-compose.yml
-|4,52,2,0,1517996319,"~/docker-compose.yml"
-'5  11  11  ~/Dockerfile
-|4,53,11,11,1517996267,"~/Dockerfile"
+|4,49,1,0,1517997021,"~/.gitignore"
+'2  2  0  ~/.gitignore
+|4,50,2,0,1517997021,"~/.gitignore"
+'3  1  0  ~/.gitignore
+|4,51,1,0,1517997008,"~/.gitignore"
+'4  1  0  ~/.gitignore
+|4,52,1,0,1517997008,"~/.gitignore"
+'5  1  0  ~/.gitignore
+|4,53,1,0,1517997008,"~/.gitignore"
+'6  1  0  ~/.gitignore
+|4,54,1,0,1517997008,"~/.gitignore"
+'7  17  0  ~/config/dev.exs
+|4,55,17,0,1517996483,"~/config/dev.exs"
+'8  2  0  ~/docker-compose.yml
+|4,56,2,0,1517996319,"~/docker-compose.yml"
+'9  11  11  ~/Dockerfile
+|4,57,11,11,1517996267,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  24  0  ~/.gitignore
+|4,39,24,0,1517997131,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1517997093,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1517997021,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -57,6 +84,22 @@
 |4,39,17,0,1517996483,"~/config/dev.exs"
 -'  17  0  ~/config/dev.exs
 |4,39,17,0,1517996483,"~/config/dev.exs"
+-'  17  0  ~/config/dev.exs
+|4,39,17,0,1517996483,"~/config/dev.exs"
+-'  17  0  ~/config/dev.exs
+|4,39,17,0,1517996483,"~/config/dev.exs"
+-'  17  0  ~/config/dev.exs
+|4,39,17,0,1517996483,"~/config/dev.exs"
+-'  17  0  ~/config/dev.exs
+|4,39,17,0,1517996483,"~/config/dev.exs"
+-'  1  0  ~/config/dev.exs
+|4,39,1,0,1517996435,"~/config/dev.exs"
+-'  1  0  ~/config/dev.exs
+|4,39,1,0,1517996435,"~/config/dev.exs"
+-'  1  0  ~/config/dev.exs
+|4,39,1,0,1517996435,"~/config/dev.exs"
+-'  1  0  ~/config/dev.exs
+|4,39,1,0,1517996435,"~/config/dev.exs"
 -'  1  0  ~/config/dev.exs
 |4,39,1,0,1517996435,"~/config/dev.exs"
 -'  1  0  ~/config/dev.exs
@@ -81,6 +124,38 @@
 |4,39,2,0,1517996319,"~/docker-compose.yml"
 -'  2  0  ~/docker-compose.yml
 |4,39,2,0,1517996319,"~/docker-compose.yml"
+-'  2  0  ~/docker-compose.yml
+|4,39,2,0,1517996319,"~/docker-compose.yml"
+-'  2  0  ~/docker-compose.yml
+|4,39,2,0,1517996319,"~/docker-compose.yml"
+-'  2  0  ~/docker-compose.yml
+|4,39,2,0,1517996319,"~/docker-compose.yml"
+-'  2  0  ~/docker-compose.yml
+|4,39,2,0,1517996319,"~/docker-compose.yml"
+-'  2  0  ~/docker-compose.yml
+|4,39,2,0,1517996319,"~/docker-compose.yml"
+-'  2  0  ~/docker-compose.yml
+|4,39,2,0,1517996319,"~/docker-compose.yml"
+-'  2  0  ~/docker-compose.yml
+|4,39,2,0,1517996319,"~/docker-compose.yml"
+-'  2  0  ~/docker-compose.yml
+|4,39,2,0,1517996319,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1517996315,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1517996315,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1517996315,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1517996315,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1517996315,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1517996315,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1517996315,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1517996315,"~/docker-compose.yml"
 -'  1  0  ~/docker-compose.yml
 |4,39,1,0,1517996315,"~/docker-compose.yml"
 -'  1  0  ~/docker-compose.yml
@@ -129,8 +204,38 @@
 |4,39,11,11,1517996267,"~/Dockerfile"
 -'  11  11  ~/Dockerfile
 |4,39,11,11,1517996267,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1517996265,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
+-'  11  11  ~/Dockerfile
+|4,39,11,11,1517996267,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1517996265,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
@@ -165,8 +270,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1517997020	0
-	"	2	0
+	*	1517997128	0
+	"	24	0
+	.	25	0
+	+	1	0
+	+	16	0
+	+	17	0
+	+	25	0
 
 > ~/config/dev.exs
 	*	1517996482	0
